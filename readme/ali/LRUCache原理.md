@@ -1,7 +1,7 @@
 # LRUCache原理
 
 ## 参考地址
-    https://www.jianshu.com/p/b49a111147ee
+[彻底解析Android缓存机制——LruCache](https://www.jianshu.com/p/b49a111147ee)
 
 ## LRUCache简介
     LRUCache是一个对有限量的值持有强引用的缓存。其中的值每次被访问以后都会被移到队列头部。当一个值被添加到
